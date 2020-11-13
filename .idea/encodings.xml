@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-api/ruoyi-api-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-api/ruoyi-api-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-api/ruoyi-api-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-datascope" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-datascope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-datascope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-common/ruoyi-common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-gen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-gen/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-modules/ruoyi-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-visual" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-visual/ruoyi-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-visual/ruoyi-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RuoYi-Cloud/ruoyi-visual/ruoyi-monitor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
